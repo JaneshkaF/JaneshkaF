@@ -1,5 +1,11 @@
 ### Hi there 👋
+Although I am new to software, I am eager to continue to learn and grow my skill set!
 
+My goal is to be able to make any of your front end dreams come true! 
+
+✨
+
+In the perfect world, I would master programming overnight! (hehe)  💻  But since I live in reality, I will have to continue typing away...after all, nobody ever fully PERFECTS coding, right?!
 <!--
 **JaneshkaF/JaneshkaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
