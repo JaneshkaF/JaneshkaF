@@ -8,6 +8,7 @@ My goal is to be able to make any of your front end dreams come true!
 - 🤔 I’m looking for help with feeling more comfortable working on the back end of software.
 - 💬 Ask me about absolutley anything! 
 -  ⚡ Fun fact: Im a mom to the coolest little boy and a furbaby named Mona! 
+-  ![IMG_0438 Small](https://user-images.githubusercontent.com/108286686/221620669-54964a5c-ac38-4195-9842-5eddc11db690.png)
 <!--
 **JaneshkaF/JaneshkaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
