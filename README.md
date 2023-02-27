@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Janeshka but all my friends call me Nesh! Although I am new to software, I am eager to continue to learn and grow my skill set! If you have any tips or pointers or if you just want to chat code, feel free to reach out! 
+My name is Janeshka but all my friends call me Nesh! I really enjoy working on the front end side of web dev. Im all for making things look nice and appealing to an audience! I also enjoy working with SQL. Although I am new to software, I am eager to continue to learn and grow my skill set! If you have any tips or pointers or if you just want to chat code, feel free to reach out! 
 
 My goal is to be able to make any of your front end dreams come true! 
 ✨✨✨
