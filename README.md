@@ -1,11 +1,13 @@
 ### Hi there 👋
-Although I am new to software, I am eager to continue to learn and grow my skill set!
+My name is Janeshka but all my friends call me Nesh! Although I am new to software, I am eager to continue to learn and grow my skill set! If you have any tips or pointers or if you just want to chat code, feel free to reach out! 
 
 My goal is to be able to make any of your front end dreams come true! 
-
-✨
-
-In the perfect world, I would master programming overnight! (hehe)  💻  But since I live in reality, I will have to continue typing away...after all, nobody ever fully PERFECTS coding, right?!
+✨✨✨
+- 🔭 I’m currently working on JavaScript excersices on FreeCodeCamp and LeetCode.
+- 🌱 I’m currently learning more about UI/UX and Figma to get a certification to add to my front end skills.
+- 🤔 I’m looking for help with feeling more comfortable working on the back end of software.
+- 💬 Ask me about absolutley anything! 
+-  ⚡ Fun fact: Im a mom to the coolest little boy and a furbaby named Mona! 
 <!--
 **JaneshkaF/JaneshkaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
