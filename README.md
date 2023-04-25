@@ -12,7 +12,8 @@ My goal is to be able to make any of your front end dreams come true!
  
   
   <h3 align="center">Lets connect!
-    
+  <p align="center"><a href="https://linkedin.com/in/https://www.https://www.linkedin.com/in/janeshka-folch-37a77b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wiljmorales/" height="30" width="40" /></a></p>
+    </h3>
 <!--
 **JaneshkaF/JaneshkaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
