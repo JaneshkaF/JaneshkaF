@@ -1,5 +1,6 @@
-### Hi there 👋
-My name is Janeshka but all my friends call me Nesh! I really enjoy working on the front end side of web dev. Im all for making things look nice and appealing to an audience! I also enjoy working with SQL. One of my goals is to be able to land a front end developer position for a company looking to add visual value to their website or app. Although I am new to software, I am eager to continue to learn and grow my skill set! If you have any tips or pointers or if you just want to chat code, feel free to reach out! 
+### <h1 align="center"> Hi there! Im Janeshka,but you can call me Nesh 👋
+
+  <h3 align="center">I really enjoy working on the front end side of web dev. Im all for making things look nice and appealing to an audience! I also enjoy working with SQL. One of my goals is to be able to land a front end developer position for a company looking to add visual value to their website or app. Although I am new to software, I am eager to continue to learn and grow my skill set! If you have any tips or pointers or if you just want to chat code, feel free to reach out!</h3>
 
 My goal is to be able to make any of your front end dreams come true! 
 ✨✨✨
@@ -8,7 +9,10 @@ My goal is to be able to make any of your front end dreams come true!
 - 🤔 I’m looking for help with feeling more comfortable working on the back end of software.
 - 💬 Ask me about absolutley anything! 
 -  ⚡ Fun fact: Im a mom to the coolest little boy and a furbaby named Mona! 
--  ![IMG_0438 Small](https://user-images.githubusercontent.com/108286686/221620669-54964a5c-ac38-4195-9842-5eddc11db690.png)
+ 
+  
+  <h3 align="center">Lets connect!
+    
 <!--
 **JaneshkaF/JaneshkaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
