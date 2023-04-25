@@ -10,9 +10,10 @@ My goal is to be able to make any of your front end dreams come true!
 - 💬 Ask me about absolutley anything! 
 -  ⚡ Fun fact: Im a mom to the coolest little boy and a furbaby named Mona! 
  
-  
+  <h3 align="center">Languages:
+  <p><i>HTML, CSS, Bootstrap, JavaScript, React, Node.JS, SQL, Python </i></p></h3> 
   <h3 align="center">Lets connect!
-  <p align="center"><a href="https://linkedin.com/in/https://www.https://www.linkedin.com/in/janeshka-folch-37a77b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wiljmorales/" height="30" width="40" /></a></p>
+  <p align="center"><a href="https://linkedin.com/in/https://www.https://www.linkedin.com/in/janeshka-folch-37a77b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janeshka-folch-37a77b1b5/" height="30" width="40" /></a></p>
     </h3>
 <!--
 **JaneshkaF/JaneshkaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
